@@ -59,7 +59,3 @@
 
 <br>
 
-<summary>📝 My GitHub Stats</summary>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmzdev&label=Profile%20Visits&style=for-the-badge" alt="mhmzdev" /> </p>
