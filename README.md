@@ -1,86 +1,61 @@
-<h1 align="center">Hi, I'm Amjad Shaneeb 👋</h1>
+<h1 align="center">Hey there, I'm Amjad Shaneeb 👋</h1>
 
-<h3 align="center">
-Product-Focused Flutter Engineer | Building Scalable Mobile & Web Applications
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Engineer;Clean+Architecture+Enthusiast;AI-Driven+Product+Builder;Scalable+Mobile+%26+Web+Developer" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I build production-ready digital products using Flutter — not just UI screens.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-My focus is on **Clean Architecture, scalable backend systems, performance optimization, and AI-powered integrations**.  
-I design applications that are maintainable, responsive, and engineered for long-term growth.
+I design and build **production-ready Flutter applications** — engineered for performance, scalability, and long-term growth.
 
-From media-rich platforms to location-based discovery systems, I turn ideas into structured, scalable products.
+I don’t just build UI.  
+I build systems.
 
----
-
-## 🧠 Engineering Philosophy
-
-- Architecture first. UI second.
-- Performance is not optional.
-- Clean code is non-negotiable.
-- Scalability should be planned, not patched.
-- Products should solve real problems.
+🔹 Clean Architecture Advocate  
+🔹 Backend-integrated Mobile & Web Apps  
+🔹 AI-powered product exploration  
+🔹 Performance-first development mindset  
 
 ---
 
-## 🛠 Core Expertise
+## 🌐 Connect With Me
 
-### 📱 Frontend
-- Flutter (Mobile & Web)
-- Dart
-- Responsive UI Engineering
-- Animation Systems
-- Performance Optimization
-
-### 🗄 Backend & Cloud
-- Firebase (Auth, Firestore, Storage)
-- Supabase (PostgreSQL, Auth, Storage)
-- REST API Integration
-- OAuth & Secure Authentication
-- Cloud Hosting (Vercel / Firebase Hosting)
-
-### 🏗 Architecture & Patterns
-- Clean Architecture
-- Scalable State Management (Provider & structured patterns)
-- Modular project structuring
-- Local database systems (SQLite)
+<p align="center">
+  <a href="https://amjadshaneeb.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amjad-shaneeb-a-c">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/amjad_shaneeb">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌍 Featured Projects
+## 🛠 Tech Stack
 
-### 🐾 Pet Me
-A media-rich Flutter platform for pet parents focused on discovery and engagement.  
-Optimized image handling, Firebase integration, scalable backend logic.
+<p align="center">
 
-### 🍽 Pettikkada
-A location-based food discovery web platform built with Flutter Web + Supabase.  
-Features vendor verification, review systems, vlogger reels, and admin moderation dashboard.
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,postgres,git,figma,vscode" />
 
-### 💰 Expenzy
-A Personal Expense Tracker built with Clean Architecture, SQLite, dashboard analytics, and performance-focused UI.
+</p>
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🏗 Engineering Focus
 
-- AI-integrated product ecosystems  
-- High-scale Flutter SaaS platforms  
-- Performance-first web applications  
-- Systems that combine usability + engineering depth  
-
----
-
-## 📫 Let's Connect
-
-- 🌐 Portfolio: https://amjadshaneeb.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/amjad-shaneeb-a-c
-- 📸 Instagram: https://www.instagram.com/amjad_shaneeb
-
----
-
-> “I don't just build apps. I engineer scalable digital products.”
+```diff
++ Clean Architecture Implementation
++ Scalable State Management
++ Flutter Web & Mobile Systems
++ Firebase & Supabase Backend Integration
++ OAuth Authentication Systems
++ SQLite & Local Storage Optimization
++ Performance Optimization
++ AI-Driven Feature Integration
